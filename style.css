@@ -1,3 +1,5 @@
 p{
     color : red;
-}
+    p{
+        font-family: 'Courier New', Courier, monospace;
+    }
